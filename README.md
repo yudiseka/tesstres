@@ -31,3 +31,6 @@ Jalankan `npm run build`
 ## Teknologi
 - React.js
 - Tailwind CSS
+
+## Catatan Deploy
+File `index.html` berada di root folder untuk kompatibilitas hosting statis.
